@@ -4,99 +4,99 @@
 
 
         
-        Es una tienda de informática online de productos nuevos, de segunda mano o reacondicionados. 
+        It is an online computer store of new, second hand or reconditioned products. 
         
-        Si lo veo suficientemente clara aunque no solo vende ordenadores también moviles,servidores,impresoras, auriculares,etc… 
+        It's clear enough but not only sells computers, also cell phones, servers,  printers, headsets, etc ... 
 
-        También ofrecen varios servicios entre ellos el de reparación de equipos.
+        They also offer various services including equipment repair.
 
 **Does it follow conventions?**
 
-- En la versión de escritorio:
+- Desktop version:
 
-        Sigue las convenciones standards, su logo lleva a la pagina principal y los menus y barras de navegacion estan donde deberían.
+        Follow the standard conventions, its logo leads to the home page and the menus and navigation bars are where they should be.
 
-        El menú, la barra de búsqueda y los iconos están distribuidos en sitios habítuales y son fáciles de encontrar y distinguir.
+        The menu, the search bar and the icons are distributed on regular sites and are easy to find and distinguish.
         
-        Cualquier sitio de su web mantiene el mismo encabezado.
+        Any site on the web maintains the same header.
 
-- A mejorar:
+- To be improved:
 
-        Sección desplegable abre algunas subcategorías y otras no.
+        Some Drop-down section opens some subcategories and others do not.
 
-        El nombre del sitio no se asocia a una tienda virtual, por el tema info.(Habitual información,foros o wiki).
+        The name of the site is not associated with an online store, because of the info theme (usual information, forums or wiki).
 
-        El menú de la cabecera no permanece fijo cuando se hace scroll.
+        The header menu does not remain fixed when scrolling.
 
-        El submenú de navegación presenta pestañas con mucha información.
-
-
-        El slider de producto claro y acorde con la imagen del sitio, pero las flechas de navegación no están operativas y si visibles confundiendo al usuario.
+        The navigation sub-menu presents tabs with a lot of information.
 
 
-- En la versión movil:
+        The product slider is clear and in accordance with the image of the site, but the navigation arrows are not operative and are visible, confusing the user.
 
 
-        Sigue las convenciones standards cumpliendo con la normativa responsive.
-
-- A mejorar:
+- Mobile version:
 
 
-        El menú hamburguesa debería mostrar la página activa.
+        It follows the standard conventions and complies with the responsive regulations.
+
+- To be improved:
+
+
+        The hamburger menu should show the active page.
 
         
 **Is the hierarchy evident (sections, subsections,…)? Can I see the major sections of the site? What options do I have at this level of the hierarchy?**
 
-- En ambas versiones:
+- Both versions:
 
-        Jerarquías bien organizadas y como en el apartado anterior  el encabezado es visible desde cualquier sitio de la web que incluye además las secciones. 
+        Well organized hierarchies and as in the previous section the header is visible from any site of the website that also includes the sections. 
 
 
 **Are the pages divided in well defined sections / layers?**
 
-    Si están dividida y son perfectamente identificables. 
+    Yes, they are divided and perfectly identifiable. 
     
-    Las principales secciones/categorías de la página son visibles desde cualquier sección o categoría.
+    The main sections/categories of the page are visible from any section or category.
 
-- A mejorar:
+- To be improved:
 
-        En la compra el botón de paypal no sale completo.
+        The Paypal button does not appear in its entirety during the purchase process.
 
 
 **Can you distinguish links and buttons?**
 
-    Los enlaces no están claros o no están reforzados con un botón.
+    The links are not clear or are not reinforced with a button.
 
 
 **Is there any content that distracts the user?**
 
-- Para ambas versiones:
+- Both versions:
 
-        No, además no aparece publicidad externa a la web.
+        No, there is no external advertising on the website.
 
 
 **Is the content structured?**
 
-- Para ambas versiones:
+- Both versions:
 
-        Cada seccíon está bien organizada y no mezcla unas secciones con otras.
+        Each section is well organized and does not mix sections with each other.
 
 
 **Are there any search options? Are they clear enough?**
 
-        Las búsquedas te muestran productos relacionados, además también incluye ayudas como la marca y categoría.
+      The searches show you related products, and also include aids such as brand and category.
 
-- Para mejorar:
+- To improve:
 
-        Filtrado por precios no funciona correctamente.
+        Price filtering does not work properly.
 
 
-**Conclusion General:**
+**General Conclusion**
 
-- Versión Escritorio:
+- Desktop version:
 
-        En lineas generales es funcional aunque tiene algunos elementos que mejorar
+        In general lines it is functional although it has some elements to improve
 
-- Versión Movil:
+- Mobile version:
 
-        Está más optimizada y es más intuitiva que la versión de escritorio. 
+        It is more optimized and more intuitive than the desktop version.  
