@@ -2,7 +2,9 @@
 
 **What site is this? (Is it clear enough?)**
 
-        Es una tienda de informática online de productos nuevos, de segunda mano o reacondicionados. Si lo veo suficientemente clara aunque no solo vende ordenadores también moviles,servidores,impresoras, auriculares,etc… y ofrecen varios servicios entre ellos el de reparación de equipos.
+        Es una tienda de informática online de productos nuevos, de segunda mano o reacondicionados. 
+        
+        Si lo veo suficientemente clara aunque no solo vende ordenadores también moviles,servidores,impresoras, auriculares,etc… y ofrecen varios servicios entre ellos el de reparación de equipos.
 
 **Does it follow conventions?**
 
