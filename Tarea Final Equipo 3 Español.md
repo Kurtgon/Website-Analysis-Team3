@@ -4,7 +4,9 @@
 
         Es una tienda de informática online de productos nuevos, de segunda mano o reacondicionados. 
         
-        Si lo veo suficientemente clara aunque no solo vende ordenadores también moviles,servidores,impresoras, auriculares,etc… y ofrecen varios servicios entre ellos el de reparación de equipos.
+        Si lo veo suficientemente clara aunque no solo vende ordenadores también moviles,servidores,impresoras, auriculares,etc… 
+
+        También ofrecen varios servicios entre ellos el de reparación de equipos.
 
 **Does it follow conventions?**
 
@@ -12,7 +14,9 @@
 
         Sigue las convenciones standards, su logo lleva a la pagina principal y los menus y barras de navegacion estan donde deberían.
 
-        El menú, la barra de búsqueda y los iconos están distribuidos en sitios habítuales y son fáciles de encontrar y distinguir.cualquier sitio de su web mantiene el mismo encabezado.
+        El menú, la barra de búsqueda y los iconos están distribuidos en sitios habítuales y son fáciles de encontrar y distinguir.
+        
+        Cualquier sitio de su web mantiene el mismo encabezado.
 
 - A mejorar:
 
@@ -38,7 +42,8 @@
 
         El menú hamburguesa debería mostrar la página activa.
 
-        Is the hierarchy evident (sections, subsections,…)? Can I see the major sections of the site? What options do I have at this level of the hierarchy?
+        
+**Is the hierarchy evident (sections, subsections,…)? Can I see the major sections of the site? What options do I have at this level of the hierarchy?**
 
 - En ambas versiones:
 
@@ -47,7 +52,9 @@
 
 **Are the pages divided in well defined sections / layers?**
 
-    Si están dividida y son perfectamente identificables. Las principales secciones/categorías de la página son visibles desde cualquier sección o categoría.
+    Si están dividida y son perfectamente identificables. 
+    
+    Las principales secciones/categorías de la página son visibles desde cualquier sección o categoría.
 
 - A mejorar:
 
